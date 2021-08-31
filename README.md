@@ -29,11 +29,10 @@
 <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="120" height="120"/> </a> &nbsp &nbsp &nbsp &nbsp
 <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="120" height="120"/> </a> &nbsp &nbsp &nbsp &nbsp
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="110" height="110"/> </a> &nbsp &nbsp &nbsp &nbsp
-<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="110" height="110"/> </a> &nbsp &nbsp &nbsp &nbsp
+<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="110" height="110"/> </a>
 </p>
 
-
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=darko018&show_icons=true&locale=en" alt="darko018" width="550" height="550"/></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=darko018&show_icons=true&locale=en&layout=compact" alt="darko018" width="550" height="550"/></p>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=darko018&" alt="darko018" width="550" height="550"/></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=darko018&show_icons=true&locale=en" alt="darko018" width="500" height="500"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=darko018&show_icons=true&locale=en&layout=compact" alt="darko018" width="500" height="500"/></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=darko018&" alt="darko018" width="500" height="500"/></p>
 
