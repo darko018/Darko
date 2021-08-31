@@ -20,7 +20,7 @@
 <a href="mailto:darkokovacevic018@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Darko" /></a>
 </p>
 
-
+<br><br>
 <h3 align="center">Languages and Tools:</h3><br>
 <p align="center"> 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="120" height="120"/> </a> &nbsp &nbsp &nbsp &nbsp
