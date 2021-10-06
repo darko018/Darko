@@ -6,7 +6,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darko018" alt="darko018" /></a> </p>
 <br>
 
-- 🔭 I’m currently working on [Expense-Tracker](https://github.com/darko018/Expense-Tracker)
+- 🔭 I’m currently working on [Tesla-Clone](https://github.com/darko018/Tesla-Clone)
 
 - 📫 How to reach me **https://www.linkedin.com/in/darko-kovacevic-a60248115/**
 
