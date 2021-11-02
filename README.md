@@ -8,7 +8,9 @@
 
 - 🔭 I’m currently working on [E-Commerce-Web-Shop](https://github.com/darko018/e-commerce-web-shop)
 
-- 📫 How to reach me **https://www.linkedin.com/in/darko-kovacevic-a60248115/**
+- 👨🏼‍🎓 Currently studying [React Redux](https://react-redux.js.org/) 
+
+- 🏁 My ultimate goal is to become Masterclass in React   
 
 - ⚡ Fun fact **You may get AI girlfriend by the 2030😀😅**
 <br>
