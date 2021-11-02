@@ -6,7 +6,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darko018" alt="darko018" /></a> </p>
 <br>
 
-- 🔭 I’m currently working on [Parallax-Scrolling-Website](https://github.com/darko018/Parallax-Scrolling-Website)
+- 🔭 I’m currently working on [E-Commerce-Web-Shop](https://github.com/darko018/e-commerce-web-shop)
 
 - 📫 How to reach me **https://www.linkedin.com/in/darko-kovacevic-a60248115/**
 
