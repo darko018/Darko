@@ -6,10 +6,8 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darko018" alt="darko018" /></a> </p>
 <br>
 
-- 🔭 I’m currently working on [E-Commerce-Web-Shop](https://github.com/darko018/e-commerce-web-shop)
-
-- 👨🏼‍🎓 Currently studying [React Redux](https://react-redux.js.org/) 
-
+- 🔭 I’m currently working on [Multipage-Grocery-Store](https://github.com/darko018/Multipage-Grocery-Store)
+<!-- - 👨🏼‍🎓 Currently studying [React Redux](https://react-redux.js.org/)  -->
 - 🏁 My ultimate goal is to become Masterclass in React   
 
 - ⚡ Fun fact **You may get AI girlfriend by the 2030😀😅**
