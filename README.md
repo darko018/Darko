@@ -6,7 +6,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darko018" alt="darko018" /></a> </p>
 <br>
 
-- 🔭 I’m currently working on [Multipage-Grocery-Store](https://github.com/darko018/Restaurant-Website)
+- 🔭 I’m currently working on [Restaurant-Website](https://github.com/darko018/Restaurant-Website)
 <!-- - 👨🏼‍🎓 Currently studying [React Redux](https://react-redux.js.org/)  -->
 - 🏁 My ultimate goal is to become Masterclass in React   
 
