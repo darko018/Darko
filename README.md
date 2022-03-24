@@ -7,7 +7,7 @@
 <br>
 
 - 🔭 I’m currently working on [The Complete JavaScript Course 2022: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/)
-<!-- - 👨🏼‍🎓 Currently revamping knowledge from JS with Jonas Schmedtmann[JavaScript](https://github.com/jonasschmedtmann)  -->
+- 👨🏼‍🎓 Revamping knowledge from JS with Jonas Schmedtmann[JavaScript](https://github.com/jonasschmedtmann)
 - 🏁 My ultimate goal is to become Masterclass in JS and React   
 
 - ⚡ Fun fact **You may get AI girlfriend by the 2030😀😅**
