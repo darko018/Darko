@@ -6,7 +6,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darko018" alt="darko018" /></a> </p>
 <br>
 
-- 🔭 I’m currently working on [The Complete JavaScript Course 2022: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/)
+- 🔭 I’m currently working on [I am currently working on my new portfolio website]
 - 👨🏼‍🎓 Revamping knowledge from JS with Jonas Schmedtmann [JavaScript](https://github.com/jonasschmedtmann)
 - 🏁 My ultimate goal is to become Masterclass in JS and React   
 
