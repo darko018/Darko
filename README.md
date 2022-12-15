@@ -10,7 +10,7 @@
 - 👨🏼‍🎓 Revamping knowledge from JS with Jonas Schmedtmann [JavaScript](https://github.com/jonasschmedtmann)
 - 🏁 My ultimate goal is to become Masterclass in JS and React   
 
-- ⚡ Fun fact **You may get AI girlfriend by the 2030😀😅**
+- ⚡ Fun fact **You may get AI girlfriend by the 2030😀**
 <br>
 
 <h3 align="center">Connect with me:</h3><br>
